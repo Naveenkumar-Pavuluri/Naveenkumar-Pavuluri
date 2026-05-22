@@ -9,8 +9,12 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend & Styling:**
+**Core Web & Frontend:**
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -27,6 +31,12 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+**DevOps & Deployment:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
+
 ---
 
 ### 🚀 What I'm Up To
@@ -34,7 +44,7 @@
 * 💼 **Software Engineer** at **Lifecraft Studio**, owning end-to-end development with a heavy emphasis on scalable frontend architecture.
 * 🎨 Blending utility-first frameworks like Tailwind with my preference for raw SCSS to achieve exact, responsive layout control.
 * ⚡ Optimizing algorithmic efficiency (keeping a close eye on $O(n \log n)$ performance) and ensuring components render flawlessly.
-* 📈 Migrating legacy systems to modern, unified stacks to eliminate cross-language context switching.
+* 📈 Migrating legacy systems to modern, unified stacks and ensuring stable deployments through CI/CD pipelines.
 
 ---
 
