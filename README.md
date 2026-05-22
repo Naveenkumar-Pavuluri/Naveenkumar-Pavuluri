@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar Pavuluri</h1>
-<h3 align="center">Software Engineer bridging robust backends with seamless, animated user interfaces</h3>
+<h3 align="center">Frontend-Heavy Software Engineer | Full-Stack Expertise</h3>
 
 <p align="center">
-  I specialize in building responsive, high-performance web applications using modern JavaScript frameworks. Currently, I am delivering production-grade applications at <b>Lifecraft Studio</b> in Indore.
+  I specialize in crafting pixel-perfect, highly interactive user interfaces while building the robust backend architectures needed to support them. Currently, I am delivering production-grade web applications at <b>Lifecraft Studio</b>. Whether I am integrating complex APIs, building out interactive dashboards, or fine-tuning smooth-scrolling hero animations and testimonial sliders, I focus on performance, responsive design, and seamless user experiences.
 </p>
 
 ---
@@ -11,9 +11,10 @@
 
 **Frontend & Styling:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
@@ -22,17 +23,18 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 What I'm Up To
 
-* 💼 Currently working as a **Software Engineer** at **Lifecraft Studio Private Limited**, owning full-stack development and improving SEO/performance.
-* 🏗️ Building scalable architectures, crafting raw SCSS layouts, and integrating smooth scrolling experiences.
-* ⚡ Previously modernized enterprise applications and scaled test coverage at **Cisco Systems**.
+* 💼 **Software Engineer** at **Lifecraft Studio**, owning end-to-end development with a heavy emphasis on scalable frontend architecture.
+* 🎨 Blending utility-first frameworks like Tailwind with my preference for raw SCSS to achieve exact, responsive layout control.
+* ⚡ Optimizing algorithmic efficiency (keeping a close eye on $O(n \log n)$ performance) and ensuring components render flawlessly.
+* 📈 Migrating legacy systems to modern, unified stacks to eliminate cross-language context switching.
 
 ---
 
