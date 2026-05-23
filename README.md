@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer | Building Scalable Web Experiences</h3>
 
 <p align="center">
-  I build end-to-end web applications — from pixel-perfect, highly interactive frontends to robust, scalable backend architectures. Currently delivering production-grade applications at <b>Lifecraft Studio</b>, where I own the full development lifecycle. I focus on performance, clean architecture, and seamless user experiences that just work.
+I build end-to-end web applications from pixel-perfect, highly interactive frontends to robust, scalable backend architectures. Currently delivering production-grade applications at <b>Lifecraft Studio</b>, where I own the full development lifecycle. I focus on performance, clean architecture, and seamless user experiences that just work.
 </p>
 
 ---
