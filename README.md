@@ -54,6 +54,16 @@ I build end-to-end web applications from pixel-perfect, highly interactive front
 
 ---
 
+### 🌟 Featured Projects
+
+| Project | Live | Repo |
+|---------|------|------|
+| 🛍️ MyShop — Full-Stack E-Commerce App | [▶ Live Demo](https://my-shop-frontend-sc9n.vercel.app/) | [Frontend](https://github.com/Naveenkumar-Pavuluri/MyShop-Frontend) · [Backend](https://github.com/Naveenkumar-Pavuluri/MyShop-Backend) |
+| 📝 Blog Website | — | [Repo](https://github.com/Naveenkumar-Pavuluri/blog_website) |
+| 📅 Client Meetings App | — | [Repo](https://github.com/Naveenkumar-Pavuluri/Client_Meetings_app) |
+
+---
+
 ### 📫 Let's Connect
 
 <p align="left">
